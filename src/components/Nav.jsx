@@ -3,7 +3,7 @@ import Logo from '../assets/imagem.png'
 
 const Nav = () => {
   return (
-    <header className='bg-gray-800 text-white p-4 shadow-md'>
+    <header className='bg-black text-white p-4 shadow-md'>
       <nav className='container mx-auto flex justify-between items-center'>
         <img src={Logo} alt="logo" className='h-10 w-auto'/>
         <ul className='flex space-x-4'>
